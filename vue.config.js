@@ -40,6 +40,7 @@ const assetsCDN = {
 
 // vue.config.js
 const vueConfig = {
+  publicPath: '/ant-design-vue-pro',
   configureWebpack: {
     // webpack plugins
     plugins: [
